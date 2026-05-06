@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "updated": "2026-05-07",
+  "selectors": {
+    "name": [
+      "h1.DUwDvf",
+      "h1[class*='fontHeadline']",
+      "h1"
+    ],
+    "rating_container": [
+      "div.F7nice"
+    ],
+    "rating_aria_keywords": [
+      "star",
+      "ulduz",
+      "звезд",
+      "yıldız"
+    ],
+    "address_button": [
+      "button[data-item-id='address']"
+    ],
+    "phone_button_prefix": [
+      "button[data-item-id^='phone:']"
+    ],
+    "website_link": [
+      "a[data-item-id='authority']"
+    ],
+    "category": [
+      "button[jsaction*='category']",
+      "span.DkEaL",
+      "button.DkEaL"
+    ],
+    "feed_container": [
+      "div[role=\"feed\"]"
+    ],
+    "place_link_in_feed": [
+      "div[role=\"feed\"] a[href*=\"maps/place\"]"
+    ],
+    "list_end_text_marker": [
+      "p.fontBodyMedium > span",
+      "span.HlvSq"
+    ],
+    "list_end_phrases": [
+      "You've reached the end of the list",
+      "Siyahının sonu",
+      "sonuna çatdınız",
+      "конца списка"
+    ],
+    "consent_button": [
+      "button[aria-label*='Accept']",
+      "button[aria-label*='Agree']",
+      "form:nth-child(2) button"
+    ]
+  }
+}
